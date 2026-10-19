@@ -2,3 +2,4 @@
 *.json
 *.parquet
 data/
+!test_questions.csv
